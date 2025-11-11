@@ -16,10 +16,10 @@ public:
                 q.push(i);
             }
         }
-        vector<int>safe;
+        vector<bool>safe(V,false);
         while(!q.empty()){
             int u = q.front();
-            safe.push_back(u);
+            safe[u]=true;
             q.pop();
             for(int &v : adj[u]){
                 indegree[v]--;
@@ -28,7 +28,13 @@ public:
                 }
             }
         }
-        sort(begin(safe),end(safe));
-        return safe;
+        // sort(begin(safe),end(safe)); // 
+        vector<int>ans;
+        for(int i=0;i<V;i++){
+            if(safe[i]){
+                ans.push_back(i);
+            }
+        }
+        return ans;
     }
 };
