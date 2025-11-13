@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -101,9 +102,18 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
