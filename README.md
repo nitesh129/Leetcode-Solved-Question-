@@ -41,6 +41,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
@@ -103,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0460-lfu-cache) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -120,4 +122,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0460-lfu-cache) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
