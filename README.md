@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0002-add-two-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Recursion
 |  |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sliding Window
 |  |
