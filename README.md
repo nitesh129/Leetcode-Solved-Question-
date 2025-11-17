@@ -151,4 +151,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
