@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
 | ------- |
