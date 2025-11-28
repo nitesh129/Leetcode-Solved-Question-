@@ -80,6 +80,7 @@
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -94,6 +95,7 @@
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
