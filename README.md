@@ -22,6 +22,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
@@ -54,6 +56,7 @@
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -93,6 +97,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
@@ -118,6 +123,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 ## Number Theory
 |  |
@@ -152,6 +158,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
