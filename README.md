@@ -70,6 +70,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Graph
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
@@ -242,4 +245,12 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
