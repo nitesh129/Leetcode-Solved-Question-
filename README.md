@@ -29,6 +29,7 @@
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
+| [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
@@ -71,6 +72,7 @@
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
+| [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
@@ -170,6 +172,7 @@
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0460-lfu-cache) |
+| [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
