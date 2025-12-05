@@ -14,6 +14,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
@@ -42,6 +43,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Geometry
 |  |
 | ------- |
