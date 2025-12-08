@@ -40,6 +40,7 @@
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [1929-concatenation-of-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1929-concatenation-of-array) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -252,6 +253,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
