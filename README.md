@@ -40,6 +40,7 @@
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -190,6 +191,7 @@
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -336,4 +339,8 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
