@@ -52,6 +52,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3583-count-special-triplets) |
@@ -192,6 +193,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -242,6 +244,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
 ## Quickselect
 |  |
 | ------- |
