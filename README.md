@@ -14,6 +14,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
@@ -133,6 +134,7 @@
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph
 |  |
@@ -229,6 +231,7 @@
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2211-count-collisions-on-a-road) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3606-coupon-code-validator) |
