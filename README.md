@@ -83,6 +83,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -106,6 +107,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -131,6 +133,7 @@
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
@@ -159,6 +162,7 @@
 | [1615-maximal-network-rank](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
+| [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -265,6 +269,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
