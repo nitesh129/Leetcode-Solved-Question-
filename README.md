@@ -61,6 +61,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3583-count-special-triplets) |
@@ -85,6 +86,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -143,6 +145,7 @@
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph
 |  |
@@ -338,6 +341,7 @@
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
