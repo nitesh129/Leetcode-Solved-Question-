@@ -39,6 +39,7 @@
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
@@ -102,6 +103,7 @@
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
@@ -222,6 +224,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
+| [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -255,6 +258,7 @@
 | [0125-valid-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
+| [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
