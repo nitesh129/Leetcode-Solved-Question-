@@ -79,6 +79,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
@@ -100,6 +101,7 @@
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
@@ -186,6 +189,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
