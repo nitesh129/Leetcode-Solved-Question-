@@ -42,6 +42,7 @@
 | [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
+| [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -260,6 +261,7 @@
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
+| [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2211-count-collisions-on-a-road) |
