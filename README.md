@@ -44,6 +44,7 @@
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -268,6 +270,7 @@
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2211-count-collisions-on-a-road) |
