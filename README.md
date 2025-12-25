@@ -97,6 +97,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3123-find-edges-in-shortest-paths) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -125,6 +126,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3123-find-edges-in-shortest-paths) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -187,6 +189,7 @@
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -201,6 +204,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Search
 |  |
 | ------- |
