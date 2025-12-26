@@ -59,6 +59,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -140,6 +141,7 @@
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
+| [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -205,6 +208,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 ## Binary Search
 |  |
 | ------- |
