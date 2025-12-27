@@ -60,6 +60,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
+| [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -225,6 +226,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
+| [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3123-find-edges-in-shortest-paths) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
@@ -256,6 +258,7 @@
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
@@ -323,6 +326,7 @@
 | [2092-find-all-people-with-secret](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
+| [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
@@ -351,6 +355,7 @@
 | [1929-concatenation-of-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
 ## Two Pointers
 |  |
