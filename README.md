@@ -48,6 +48,7 @@
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
@@ -141,6 +142,7 @@
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 ## Union Find
@@ -215,6 +217,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
