@@ -49,6 +49,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -272,6 +273,7 @@
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
