@@ -181,6 +181,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
