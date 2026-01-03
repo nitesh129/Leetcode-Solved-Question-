@@ -88,6 +88,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
@@ -245,6 +246,7 @@
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3123-find-edges-in-shortest-paths) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
@@ -353,6 +355,7 @@
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3606-coupon-code-validator) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Quickselect
 |  |
 | ------- |
@@ -463,6 +466,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
