@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -56,6 +57,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
