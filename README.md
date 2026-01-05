@@ -64,6 +64,7 @@
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1975-maximum-matrix-sum) |
 | [2050-parallel-courses-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -160,6 +161,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1975-maximum-matrix-sum) |
 | [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
@@ -470,6 +472,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1975-maximum-matrix-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1975-maximum-matrix-sum) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
