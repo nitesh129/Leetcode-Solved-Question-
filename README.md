@@ -110,6 +110,7 @@
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -435,12 +436,14 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
 ## Stack
 |  |
