@@ -48,6 +48,7 @@
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
@@ -349,11 +351,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -475,6 +479,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -490,4 +495,16 @@
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
