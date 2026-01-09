@@ -109,6 +109,7 @@
 | [0820-find-eventual-safe-states](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0820-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -139,6 +140,7 @@
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -290,6 +292,7 @@
 | [0815-bus-routes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -441,6 +444,7 @@
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
@@ -448,6 +452,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1361-validate-binary-tree-nodes) |
