@@ -46,6 +46,7 @@
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
@@ -205,6 +206,7 @@
 | [0198-house-robber](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -346,6 +348,7 @@
 | [0125-valid-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
+| [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
 | [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
