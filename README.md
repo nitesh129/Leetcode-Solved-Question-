@@ -206,6 +206,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0198-house-robber) |
@@ -355,6 +356,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
@@ -542,6 +544,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
 ## Merge Sort
 |  |
