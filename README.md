@@ -292,6 +292,7 @@
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3123-find-edges-in-shortest-paths) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3863-power-grid-maintenance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
@@ -304,6 +305,7 @@
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3123-find-edges-in-shortest-paths) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Number Theory
 |  |
 | ------- |
@@ -573,4 +575,8 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
