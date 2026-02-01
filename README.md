@@ -92,6 +92,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -390,6 +391,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Divide and Conquer
 |  |
@@ -413,6 +415,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2285-maximum-total-importance-of-roads](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2285-maximum-total-importance-of-roads) |
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
