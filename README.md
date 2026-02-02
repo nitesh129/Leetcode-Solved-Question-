@@ -44,6 +44,7 @@
 | [0198-house-robber](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -216,6 +217,7 @@
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0494-target-sum) |
@@ -279,6 +281,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
