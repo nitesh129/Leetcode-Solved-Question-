@@ -53,6 +53,7 @@
 | [0494-target-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -224,6 +225,7 @@
 | [0494-target-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1143-longest-common-subsequence) |
@@ -413,6 +415,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -552,6 +555,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
