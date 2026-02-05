@@ -24,6 +24,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -36,6 +37,7 @@
 | [0010-regular-expression-matching](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -506,6 +508,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Bitmask
 |  |
 | ------- |
