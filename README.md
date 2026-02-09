@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
@@ -333,6 +334,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
