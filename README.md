@@ -97,6 +97,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -304,6 +305,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -493,6 +496,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
