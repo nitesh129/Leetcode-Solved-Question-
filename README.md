@@ -224,6 +224,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
@@ -392,6 +393,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0125-valid-palindrome) |
@@ -494,6 +496,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0125-valid-palindrome) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
