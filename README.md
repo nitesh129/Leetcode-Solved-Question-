@@ -236,6 +236,7 @@
 | [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0583-delete-operation-for-two-strings) |
@@ -396,6 +397,7 @@
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
