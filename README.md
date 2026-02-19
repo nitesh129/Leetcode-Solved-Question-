@@ -74,6 +74,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1200-minimum-absolute-difference) |
@@ -244,6 +245,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -360,6 +362,7 @@
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -409,6 +412,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -448,6 +452,7 @@
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
+| [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -501,6 +506,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0125-valid-palindrome) |
+| [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
