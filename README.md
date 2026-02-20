@@ -13,6 +13,7 @@
 | [0002-add-two-numbers](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
@@ -234,6 +235,7 @@
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0416-partition-equal-subset-sum) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-network-delay-time) |
 | [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
@@ -356,6 +359,7 @@
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
