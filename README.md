@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
@@ -165,6 +166,7 @@
 | [0127-word-ladder](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0133-clone-graph) |
+| [0279-perfect-squares](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0399-evaluate-division) |
@@ -236,6 +238,7 @@
 | [0198-house-robber](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0416-partition-equal-subset-sum) |
