@@ -80,6 +80,7 @@
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -255,6 +256,7 @@
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -466,6 +469,7 @@
 | [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
