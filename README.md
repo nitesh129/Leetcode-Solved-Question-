@@ -22,6 +22,7 @@
 | [1390-four-divisors](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -95,6 +96,7 @@
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1929-concatenation-of-array) |
@@ -390,6 +392,7 @@
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -614,6 +617,7 @@
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3583-count-special-triplets) |
 ## Brainteaser
