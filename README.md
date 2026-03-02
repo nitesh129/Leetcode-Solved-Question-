@@ -21,6 +21,7 @@
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
@@ -94,6 +95,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
@@ -276,6 +278,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -548,6 +551,7 @@
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
