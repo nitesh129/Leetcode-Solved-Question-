@@ -18,6 +18,7 @@
 | [0279-perfect-squares](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1390-four-divisors) |
@@ -68,6 +69,7 @@
 | [0485-max-consecutive-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
@@ -391,6 +393,7 @@
 | [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0460-lfu-cache) |
+| [0523-continuous-subarray-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
 | [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
@@ -555,6 +558,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0523-continuous-subarray-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
