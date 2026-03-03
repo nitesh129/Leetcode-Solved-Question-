@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0264-ugly-number-ii) |
@@ -245,6 +246,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
@@ -633,6 +635,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Counting Sort
 |  |
