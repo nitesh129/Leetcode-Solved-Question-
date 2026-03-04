@@ -51,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
@@ -252,6 +254,7 @@
 | [0022-generate-parentheses](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
