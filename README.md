@@ -276,6 +276,7 @@
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
@@ -453,6 +454,7 @@
 | [0474-ones-and-zeroes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
@@ -627,6 +629,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0678-valid-parenthesis-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
@@ -662,6 +665,7 @@
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
