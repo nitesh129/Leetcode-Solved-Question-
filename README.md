@@ -104,6 +104,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1753-path-with-minimum-effort](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1753-path-with-minimum-effort) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1911-maximum-alternating-subsequence-sum) |
