@@ -83,6 +83,7 @@
 | [0839-similar-string-groups](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
 | [0912-sort-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -224,6 +225,7 @@
 | [0542-01-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0840-magic-squares-in-grid) |
+| [0931-minimum-falling-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -282,6 +284,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0931-minimum-falling-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1092-shortest-common-supersequence) |
