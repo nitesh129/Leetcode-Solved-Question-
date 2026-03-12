@@ -134,6 +134,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3379-transformed-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -495,6 +496,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -587,6 +589,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -617,6 +620,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Bitmask
@@ -651,6 +655,7 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
