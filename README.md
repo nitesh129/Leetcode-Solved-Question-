@@ -88,6 +88,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1073-number-of-enclaves](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1073-number-of-enclaves) |
@@ -490,6 +491,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0187-repeated-dna-sequences) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -579,6 +581,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0523-continuous-subarray-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -610,6 +613,7 @@
 | [0645-set-mismatch](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0756-pyramid-transition-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -646,6 +650,7 @@
 ## Queue
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
