@@ -490,6 +490,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3714-longest-balanced-substring-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
