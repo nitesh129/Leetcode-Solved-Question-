@@ -132,6 +132,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -239,6 +240,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1975-maximum-matrix-sum) |
 | [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Union Find
 |  |
 | ------- |
@@ -595,6 +597,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
