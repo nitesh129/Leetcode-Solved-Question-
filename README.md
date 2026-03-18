@@ -122,6 +122,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2054-two-best-non-overlapping-events) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2392-build-a-matrix-with-conditions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2392-build-a-matrix-with-conditions) |
@@ -499,6 +500,7 @@
 | [0187-repeated-dna-sequences](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0187-repeated-dna-sequences) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
