@@ -89,6 +89,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0983-minimum-cost-for-tickets) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1036-rotting-oranges](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
@@ -297,6 +298,7 @@
 | [0926-flip-string-to-monotone-increasing](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1143-longest-common-subsequence) |
