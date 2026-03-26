@@ -102,6 +102,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1390-four-divisors) |
+| [1402-reducing-dishes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1402-reducing-dishes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1514-path-with-maximum-probability) |
@@ -308,6 +309,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1402-reducing-dishes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -543,6 +545,7 @@
 | [1200-minimum-absolute-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1402-reducing-dishes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1402-reducing-dishes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -716,6 +719,7 @@
 | [0670-maximum-swap](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0678-valid-parenthesis-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1402-reducing-dishes](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1402-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1975-maximum-matrix-sum) |
