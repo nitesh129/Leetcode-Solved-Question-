@@ -30,6 +30,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2963-count-the-number-of-good-partitions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2963-count-the-number-of-good-partitions) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -133,6 +134,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2906-construct-product-matrix) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [2963-count-the-number-of-good-partitions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2963-count-the-number-of-good-partitions) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -443,6 +445,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2402-meeting-rooms-iii) |
+| [2963-count-the-number-of-good-partitions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2963-count-the-number-of-good-partitions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -711,6 +714,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/0062-unique-paths) |
+| [2963-count-the-number-of-good-partitions](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/2963-count-the-number-of-good-partitions) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nitesh129/Leetcode-Solved-Question-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Counting Sort
 |  |
